@@ -15,8 +15,6 @@
 
      Kanami from Rance
      
-
-     
    * pixeled
      ![after](.\images\kanami_p.png)
 
