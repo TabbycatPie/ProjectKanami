@@ -13,14 +13,13 @@
 
      ![original](./images/kanami_o.png)
 
-     <center> Kamami from Rance
-     </center>
-
+     Kanami from Rance
      
 
+     
    * pixeled
-     ![after](./images/kanami_p.png)
+     ![after](.\images\kanami_p.png)
 
-     <center> After
-     </center>
+     After
+     
 
